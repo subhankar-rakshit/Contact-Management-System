@@ -1,5 +1,5 @@
 # User Credentials
 host = 'localhost'
-user = 'pyseek'
-password = 'Bhole@89'
+user = 'Your Username'
+password = 'Your Password'
 database = 'contact_management'
